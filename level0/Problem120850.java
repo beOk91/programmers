@@ -15,4 +15,6 @@ public class Problem120850 {
         Collections.sort(list);
         return list.toArray(new Integer[0]);
     }
+	
+	
 }
